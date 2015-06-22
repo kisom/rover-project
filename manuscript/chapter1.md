@@ -1,7 +1,7 @@
 -# Hardware
 # Platform Overview
 
-![](images/rover.jpg)
+![](images/rover_small.jpg)
 
 * platform
   * mega2560
