@@ -1,4 +1,5 @@
-# The Hardware
+-# Hardware
+# Platform Overview
 
 ![](images/rover.jpg)
 
