@@ -1,0 +1,20 @@
+{frontmatter}
+
+# Introduction
+
+I've long been fascinated by robots; in high school, I participated in
+a FIRST robotics team that left a lasting imprint on my engineering
+career. However, since then, I'd never gotten around to building a
+robot.
+
+Last month, I finally started building one which I hope this is the
+predecessor of a number of future robots. This is a writeup of the 
+project, written as the robot is worked on. My intention is that this
+serves two roles:
+
+1. The main role is to serve as a braindump and knowledge store for
+   future robotics endeavours for myself.
+2. This may be useful for others building robots.
+
+Now, I need to actually finish this thing.
+
