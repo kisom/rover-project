@@ -1,4 +1,5 @@
 -# Hardware
+
 # Platform Overview
 
 ![](images/rover_small.jpg)
