@@ -16,5 +16,11 @@ serves two roles:
    future robotics endeavours for myself.
 2. This may be useful for others building robots.
 
+The robot itself is a platform for learning autonomous navigation; as of
+yet, it has no payload to speak of---no mission besides driving around
+and not running into obstacles. Eventually it should be able to receive
+some sort of objective and be able to arrive, preferably via a radio
+link.
+
 Now, I need to actually finish this thing.
 
