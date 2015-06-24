@@ -32,3 +32,12 @@ will be used, but these are not yet connected.
 
 ## Pin mapping
 
+| Pin | Name | Direction | Notes                     |
+|-----|------|-----------|---------------------------|
+| D7  | PH5  | Output    | Beacon right              |
+| D8  | PH4  | Output    | Beacon left               |
+| D10 | PB4  | Output    | Mast servo                |
+| D11 | PB5  | Output    | Right drivetrain servo    |
+| D12 | PB6  | Output    | Left drivetrain servo     |
+| A2  | PC2  | Input     | Ultrasonic ranging sensor |
+| A3  | PC3  | Input     | Infrared ranging sensor   |
